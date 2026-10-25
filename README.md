@@ -2,7 +2,7 @@
 
 A colorful slime puzzle for Android. Drop pieces onto an 8×8 board, merge same-colored slimes into bigger blobs and pop them at 9 cells.
 
-![Screenshot 1](screenshots/1.png) ![Screenshot 2](screenshots/2.png) ![Screenshot 3](screenshots/3.png)
+![Screenshot 1](screenshots_v2/1.png) ![Screenshot 2](screenshots_v2/2.png) ![Screenshot 3](screenshots_v2/3.png)
 
 ## Features
 - Chain pops for combos, clear rocks, rainbow slimes join any colors
