@@ -3,9 +3,9 @@
 A colorful slime puzzle for Android. Drop pieces onto an 8×8 board, merge same-colored slimes into bigger blobs and pop them at 9 cells.
 
 <p align="center">
-  <img src="screenshots_v2/1.png" width="30%" alt="Screenshot 1">
-  <img src="screenshots_v2/2.png" width="30%" alt="Screenshot 2">
-  <img src="screenshots_v2/3.png" width="30%" alt="Screenshot 3">
+  <img src="screenshots_en/1.png" width="30%" alt="Screenshot 1">
+  <img src="screenshots_en/2.png" width="30%" alt="Screenshot 2">
+  <img src="screenshots_en/3.png" width="30%" alt="Screenshot 3">
 </p>
 
 ## Features
